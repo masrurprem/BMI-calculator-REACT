@@ -4,6 +4,8 @@ This BMI Calculator allows users to input their height and weight to instantly c
 
 The app provides a simple, clean UI with real-time validation and result display.
 
+## 🚀 Live Demo: https://bmi-calculator-react-975t7nstn-masrurs-projects-14967805.vercel.app/
+
 ---
 
 ## ✨ Features
